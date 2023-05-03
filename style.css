@@ -1,0 +1,57 @@
+
+table, th, td{
+    border: 1px solid black; 
+    border-collapse: collapse;
+    background-color: #d8dfe7;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+.jan{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    background-color: #40698d;
+    color: white;
+}
+
+.feriados{
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #d8dfe7;
+}
+
+.fer{
+    background-color: #8198b2;
+    color: white;
+}
+
+.fer2{
+    background-color: #556373;
+    color: white;
+}
+
+.prox{
+    color: #9e9ea2;
+}
+
+.find{
+    background-color: #7b9bc3;
+    color: white;
+}
+
+.rec{
+    background-color: #8fbcef;
+    color: white;
+}
+
+.ex{
+    background-color: #a3c7f2;
+    color: white;
+}
+
+.rep{
+    background-color: #b4e0ff;
+    color: white;
+}
